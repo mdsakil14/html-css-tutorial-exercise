@@ -1,0 +1,39 @@
+p{
+  margin-left:5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Verdana;
+}
+
+
+.page-title{
+  font-size: 35px;
+  
+  font-weight: bold;
+  margin-top:8px;
+}
+
+.short-intro{
+  margin-top:4px;
+  font-size:20px;
+  color:rgb(119, 116, 116);
+  margin-bottom: 30px;
+}
+
+.description{
+  font-size: 25px;
+  width:380px;
+  margin-bottom:20px;
+}
+
+.get-started-button{
+  margin-left:5px;
+  background-color: green;
+  color:white;
+  padding: 10px 25px 10px 25px;
+  font-size: large;
+  font-weight: bold;
+  border:none;
+  border-radius: 8px;
+}
+
